@@ -28,8 +28,8 @@ twitter_username: vel0rum1
 github_username:  vel0rum
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
