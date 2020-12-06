@@ -273,7 +273,7 @@ DEPENDENCIES
   gemoji
   github-pages
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-theme-cayman (~> 0.1.1)
   rinku
   rouge
   sanitize
